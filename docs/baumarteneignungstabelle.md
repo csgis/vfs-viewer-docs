@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Baumarteneignungstabelle
+title: 4. Baumarteneignungstabelle
 permalink: /baumarteneignungstabelle/
 ---
 
